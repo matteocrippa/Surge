@@ -25,7 +25,7 @@ import PackageDescription
 let package = Package(
     name: "Surge",
     platforms: [
-        .iOS(.v12)
+        .iOS(.v8)
     ],
     products: [
         .library(
