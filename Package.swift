@@ -1,4 +1,4 @@
-// swift-tools-version:4.0
+// swift-tools-version:5.3
 //
 // Copyright © 2014-2019 the Surge contributors
 //
